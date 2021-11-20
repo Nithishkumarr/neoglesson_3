@@ -1,4 +1,4 @@
-body{
+/* body{
     color:cornflowerblue
 }
 h1{
@@ -16,4 +16,21 @@ h3{
 }
 .para{
     color: darkolivegreen;
+} */
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body{
+    font-family: 'Shadows Into Light', cursive;
 }
+/* container */
+.container{
+    padding-left: 2rem;
+    padding-right: 5rem;
+}
+.container-center{
+    max-width: 600px;
+    margin: auto;
+}
+/* .container-fluid{
+    padding: auto;
+} */
