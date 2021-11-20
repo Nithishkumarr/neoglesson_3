@@ -17,10 +17,11 @@ h3{
 .para{
     color: darkolivegreen;
 } */
-@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,300&family=Roboto+Condensed:ital@1&family=Shadows+Into+Light&display=swap');
 
 body{
-    font-family: 'Shadows Into Light', cursive;
+    
+font-family: 'Shadows Into Light', cursive;
 }
 /* container */
 .container{
@@ -34,3 +35,26 @@ body{
 /* .container-fluid{
     padding: auto;
 } */
+/* links */
+root{
+    --primary-color:rgb(157, 255, 0);
+}
+.primary-link{
+    background-color:yellow;
+    border-radius: 0.5rem;
+    color:brown;
+}
+.link{
+    text-decoration: none;
+    padding: 1rem,1rem;
+}
+.secondary-link{
+    background-color: cadetblue;
+    border-radius: 0.5rem;
+    color:black
+
+}
+/* margin for hr */
+hr{
+    margin:1rem 2rem 0rem;
+}
