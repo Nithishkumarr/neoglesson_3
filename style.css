@@ -66,9 +66,20 @@ hr{
     padding: 0rem 0.5rem;
 }
 .navigation{
-    background-color: burlywood;
-    color: whitesmoke;
+    background-color: aquamarine; 
+    color:rgb(63, 0, 209);
+    border-bottom-left-radius: 2rem;
 }
 .navigation .link{
-    color: whitesmoke;
+    color: dodgerblue;
+}
+.nav-pills{
+    text-align: right;
+}
+.nav-band{
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+.link-link-active{
+    font-weight: bold;
 }
