@@ -65,3 +65,10 @@ hr{
     display: inline;
     padding: 0rem 0.5rem;
 }
+.navigation{
+    background-color: burlywood;
+    color: whitesmoke;
+}
+.navigation .link{
+    color: whitesmoke;
+}
