@@ -37,7 +37,7 @@ font-family: 'Shadows Into Light', cursive;
 } */
 /* links */
 root{
-    --primary-color:rgb(157, 255, 0);
+    --primary--color:rgb(21, 255, 0);
 }
 .primary-link{
     background-color:yellow;
@@ -82,4 +82,24 @@ hr{
 }
 .link-link-active{
     font-weight: bold;
+}
+.hero{
+    padding: 2rem;
+}
+.hero-img{
+    max-width: 250px;
+    display: block;
+    margin:auto;
+}
+.hero-heading{
+    text-align: center;
+    color: grey;
+    padding-top: 1rem;
+}
+.header-inverted{
+    color:yellowgreena;
+}
+/* sections */
+.section h1{
+    text-align: center;
 }
