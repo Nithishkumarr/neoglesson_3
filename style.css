@@ -106,7 +106,7 @@ hr{
 }
 .section-col{
     padding: 1rem;
-    padding-bottom: 0.5rem;
+    padding-bottom: 0.3rem;
     background-color:burlywood;
     border-radius: 0.5rem 1rem 0.5rem;
 }
@@ -114,12 +114,24 @@ hr{
     text-align: center;
 }
 .footer{
-    padding:1rem;
+  
+    padding: 2rem 1rem;
+   
     border-radius: 1.5rem;
+    background: violet;
+    border-top: 2rem;
+    text-align: center;
+}
+ .footer .footer-header{
     
-    padding-bottom: 0.5rem;
+    color: white;
+    
+    
     
 }
-.footer-header{
-    padding-top: 0.5rem;
+.footer .link{
+    color: white;
+}
+.footer ul{
+    padding-inline-start: 0px;
 }
