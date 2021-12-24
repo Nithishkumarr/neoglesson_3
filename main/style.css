@@ -112,6 +112,11 @@ hr{
 }
 .heading-section{
     text-align: center;
+    color: cornflowerblue;
+}
+.section{
+    text-align: justify;
+    padding: 0.5rem;
 }
 .footer{
   
