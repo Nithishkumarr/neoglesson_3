@@ -53,7 +53,9 @@ root{
 .secondary-link{
     background-color: cadetblue;
     border-radius: 0.5rem;
-    color:black
+    color:black;
+   
+    text-align: center;
 
 }
 .tirtery-link{
@@ -75,8 +77,8 @@ hr{
     padding: 0rem 0.5rem;
 }
 .navigation{
-    background-color: rgb(255, 166, 0); 
-    color:rgb(14, 0, 211);
+    background-color:#60a5fa ; 
+    color:rgb(118, 95, 160);
     border-bottom-left-radius: 2rem;
 }
 .navigation .link{
@@ -114,7 +116,7 @@ hr{
 }
 .section-col{
     padding: 1rem;
-    padding-bottom: 0.3rem;
+    padding-bottom: 0.5rem;
     background-color:#99f6e4;
     border-radius: 0.5rem 1rem 0.5rem;
 }
@@ -123,7 +125,7 @@ hr{
     color: cornflowerblue;
 }
 .section{
-    text-align: justify;
+    text-align:center;
     padding: 0.5rem;
 }
 .footer{
@@ -137,8 +139,9 @@ hr{
 }
  .footer .footer-header{
     
-    color: white;
-    
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: large;
     
     
 }
