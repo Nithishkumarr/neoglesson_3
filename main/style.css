@@ -151,3 +151,10 @@ hr{
 .footer ul{
     padding-inline-start: 0px;
 }
+.project_style{
+    display:inline;
+    
+   color: cornflowerblue;
+   font-weight: bolder;
+   
+}
