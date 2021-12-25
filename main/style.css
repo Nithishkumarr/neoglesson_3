@@ -43,10 +43,12 @@ root{
     background-color:yellow;
     border-radius: 0.5rem;
     color:brown;
+    
 }
 .link{
     text-decoration: none;
     padding: 1rem,1rem;
+    text-align: center;
 }
 .secondary-link{
     background-color: cadetblue;
@@ -67,12 +69,12 @@ hr{
     padding: 0rem 0.5rem;
 }
 .navigation{
-    background-color: aquamarine; 
-    color:rgb(63, 0, 209);
+    background-color: rgb(255, 166, 0); 
+    color:rgb(14, 0, 211);
     border-bottom-left-radius: 2rem;
 }
 .navigation .link{
-    color: dodgerblue;
+    color:brown;
 }
 .nav-pills{
     text-align: right;
