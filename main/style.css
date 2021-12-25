@@ -56,6 +56,12 @@ root{
     color:black
 
 }
+.tirtery-link{
+    background-color: rgb(118, 95, 160);
+    border-radius: 0.5rem;
+    color:wheat
+
+}
 /* margin for hr */
 hr{
     margin:1rem 2rem 0rem;
