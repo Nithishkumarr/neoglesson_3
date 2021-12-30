@@ -59,10 +59,10 @@ root{
 
 }
 .tirtery-link{
-    background-color: rgb(118, 95, 160);
-    border-radius: 0.5rem;
-    color:wheat
-
+   image-resolution: 5px;
+    margin:auto;
+    
+    
 }
 /* margin for hr */
 hr{
@@ -133,21 +133,21 @@ hr{
     padding: 2rem 1rem;
    
     border-radius: 1.5rem;
-    background: #60a5fa;
+    background:paleturquoise;
     border-top: 2rem;
     text-align: center;
 }
  .footer .footer-header{
     
-    color: whitesmoke;
+    color: black;
     font-weight: bold;
     font-size: large;
     
     
 }
-.footer .link{
-    color: white;
-}
+/* .footer .link{
+    image-resolution: 10px;
+} */
 .footer ul{
     padding-inline-start: 0px;
 }
